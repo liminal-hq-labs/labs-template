@@ -15,7 +15,7 @@
 -->
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="hero-title hero-desc" data-loop="9">
 	<title id="hero-title">{{PROJECT_TITLE}}</title>
-	<desc id="hero-desc">{{PROJECT_TITLE}}: {{PROJECT_DESCRIPTION}} A Liminal HQ Labs experiment. An animated banner shows a flask of glowing lime liquid bubbling on a lab bench.</desc>
+	<desc id="hero-desc">{{PROJECT_TITLE}}: {{PROJECT_DESCRIPTION}}. A Liminal HQ Labs experiment. An animated banner shows a flask of glowing lime liquid bubbling on a lab bench.</desc>
 
 	<style>
 		.ui { font-family: ui-sans-serif, system-ui, -apple-system, 'Segoe UI', 'Adwaita Sans', Inter, sans-serif; }
