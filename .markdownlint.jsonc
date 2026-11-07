@@ -1,4 +1,6 @@
 {
+  // Table pipe spacing is left to the author; the newer markdownlint rule disagrees with the house tables.
+  "MD060": false,
   "default": true,
   // Long single-line paragraphs are intentional (AGENTS.md: don't hard-wrap markdown prose).
   "MD013": false,
